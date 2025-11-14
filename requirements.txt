@@ -7,3 +7,5 @@ sentence-transformers
 langchain-openai
 langchain-core
 python-dotenv
+pypdf
+
