@@ -1,7 +1,7 @@
 langchain 
 langchain-community 
 langchain-openrouter 
-pypdf2 
+fpdf
 faiss-cpu 
 sentence-transformers
 langchain-openai
