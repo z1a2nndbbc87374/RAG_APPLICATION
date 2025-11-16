@@ -1,6 +1,7 @@
 langchain 
 langchain-community 
 langchain-openrouter 
+langchain-huggingface
 fpdf
 faiss-cpu 
 sentence-transformers
@@ -8,4 +9,5 @@ langchain-openai
 langchain-core
 python-dotenv
 pypdf
+
 
