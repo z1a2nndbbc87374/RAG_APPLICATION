@@ -195,7 +195,7 @@ if uploaded_files:
     llm = ChatOpenAI(
         api_key=st.secrets["OPENROUTER_API_KEY"],  # Replace with your own key
         base_url="https://openrouter.ai/api/v1",
-        model="openai/gpt-oss-safeguard-20b"
+        model="openai/gpt-4o-mini"
     )
 
     full_text = "\n\n".join(doc.page_content for doc in splits)
